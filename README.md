@@ -20,12 +20,4 @@
 
 *work in progress.*
 
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api?username=vio1etdust&show_icons=true&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=bfbfbf&icon_color=ffffff"/>
-
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vio1etdust&layout=compact&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=bfbfbf"/>
-
 </div>
