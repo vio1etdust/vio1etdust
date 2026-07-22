@@ -14,6 +14,5 @@
 
 ✦ beginner developer  
 ✦ nutrition student  
-✦ artist
 
 </div>
