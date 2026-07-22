@@ -16,8 +16,4 @@
 ✦ nutrition student  
 ✦ artist
 
-───────────────
-
-*work in progress.*
-
 </div>
