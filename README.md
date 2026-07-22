@@ -4,7 +4,7 @@
 
 <br>
 
-<img src="https://raw.githubusercontent.com/vio1etdust/vio1etdust/main/5d09e172b06bb65b626f58494bf7cf1e.gif" width="420"/>
+<img src="https://raw.githubusercontent.com/vio1etdust/vio1etdust/main/86a178004efa29765785dc2a892b5f3c.gif" width="420"/>
 
 ### vio1etdust
 
