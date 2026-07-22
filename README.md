@@ -6,8 +6,6 @@
 
 <img src="https://raw.githubusercontent.com/vio1etdust/vio1etdust/main/ffb95cedcadd3898b0eb38ae223e0b8c.gif" width="420"/>
 
-### vio1etdust
-
 *"learning one commit at a time."*
 
 ───────────────
