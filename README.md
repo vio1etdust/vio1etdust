@@ -22,6 +22,6 @@ late nights 🌙
 
 ────────────୨ৎ────────────
 
-🖤 *"girls are my favorite kind of art."*
+ *"girls are my favorite kind of art."*
 
 </div>
