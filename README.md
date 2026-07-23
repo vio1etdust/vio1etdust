@@ -1,32 +1,32 @@
-<div align="center">
+<h2 align="center">You've found my little corner.</h2>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=1200&color=FFFFFF&center=true&vCenter=true&width=520&lines=You've+found+my+little+corner.;Welcome%2C+stay+awhile." />
+<p align="center">
+  <img src="51ad3514c15cb5db1d1d551d5ba58a44.gif" width="460">
+</p>
 
-<br>
+<p align="center">
+<i>"a quiet place for little things."</i>
+</p>
 
-<img src="https://raw.githubusercontent.com/vio1etdust/vio1etdust/main/ffb95cedcadd3898b0eb38ae223e0b8c.gif" width="420"/>
+<p align="center">────────────୨ৎ────────────</p>
 
-> *"a quiet place for little things."*
-
-────────────୨ৎ────────────
-
-✦ beginner developer  
-✦ nutrition student  
+<p align="center">
+✦ beginner developer <br>
+✦ introvert <br>
 ✦ artist
+</p>
 
-<div align="center">
-
-<a href="https://www.instagram.com/1kyznnn">instagram</a> ✦
+<p align="center">
+<a href="https://instagram.com/USERNAME">instagram</a> ⊹
 <a href="https://www.roblox.com/share?code=882603caf62906489966c5213e7e718d&type=Profile&source=ProfileShare&stamp=1784781554517">roblox</a>
+</p>
 
-music 🎧
-sketches ✎
-late nights ☾
+<p align="center">
+music 🎧 • sketches ✎ • late nights ☾
+</p>
 
-</div>
+<p align="center">────────────୨ৎ────────────</p>
 
-────────────୨ৎ────────────
-
- *"girls are my favorite kind of art."*
-
-</div>
+<p align="center">
+<i>"girls are my favorite kind of art."</i>
+</p>
