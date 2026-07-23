@@ -14,11 +14,16 @@
 ✦ nutrition student  
 ✦ artist
 
-```text
+<div align="center">
+
+<a href="https://www.instagram.com/1kyznnn">instagram</a> ✦
+<a href="https://www.roblox.com/share?code=882603caf62906489966c5213e7e718d&type=Profile&source=ProfileShare&stamp=1784781554517">roblox</a>
+
 music 🎧
-sketches ✐
-late nights 🌙
-```
+sketches ✎
+late nights ☾
+
+</div>
 
 ────────────୨ৎ────────────
 
