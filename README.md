@@ -15,7 +15,6 @@
 ✦ artist
 
 ```text
-coffee ☕
 music 🎧
 sketches ✐
 late nights 🌙
