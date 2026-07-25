@@ -4,10 +4,6 @@
   <img src="51ad3514c15cb5db1d1d551d5ba58a44.gif" width="460">
 </p>
 
-<p align="center">
-<i>"my god, my universe."</i>
-</p>
-
 <p align="center">୨ৎ ─────────────── ୨ৎ</p>
 
 <p align="center">
