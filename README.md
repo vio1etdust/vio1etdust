@@ -4,14 +4,17 @@
   <img src="51ad3514c15cb5db1d1d551d5ba58a44.gif" width="460">
 </p>
 
-<p align="center">୨ৎ ─────────────── ୨ৎ</p>
+<p align="center">
+<i>"a quiet place for little things."</i>
+</p>
+
+<p align="center">────────────୨ৎ────────────</p>
 
 <p align="center">
-✦ C+H freely <br>
-✦ introvert <br>
-✦ artist <br>
+✦ nutrition student <br>
 ✦ beginner developer <br>
-✦ mostly on the ID server
+✦ introvert <br>
+✦ artist
 </p>
 
 <p align="center">
@@ -20,14 +23,10 @@
 </p>
 
 <p align="center">
-☾ music • sketches • late nights • coffee
+music ☾ • sketches ✎ • late nights ☾
 </p>
 
-<p align="center">୨ৎ ─────────────── ୨ৎ</p>
-
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&pause=3000&color=FFFFFF&center=true&vCenter=true&width=435&lines=my+god%2C+my+universe.">
-</p>
+<p align="center">────────────୨ৎ────────────</p>
 
 <p align="center">
 <i>"girls are my favorite kind of art."</i>
