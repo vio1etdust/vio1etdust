@@ -32,7 +32,3 @@
 <p align="center">
 <i>"girls are my favorite kind of art."</i>
 </p>
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=violetdust&label=visitors&color=111111&style=flat"/>
-</p>
