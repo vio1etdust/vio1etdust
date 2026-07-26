@@ -1,4 +1,6 @@
-<h2 align="center">You've found my little corner.</h2>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&duration=3000&pause=1200&color=FFFFFF&center=true&vCenter=true&repeat=true&width=500&lines=my+god,+my+universe.">
+</p>
 
 <p align="center">
   <img src="51ad3514c15cb5db1d1d551d5ba58a44.gif" width="460">
