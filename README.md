@@ -15,7 +15,6 @@
 <p align="center">
 ✦ nutrition student <br>
 ✦ beginner developer <br>
-✦ introvert <br>
 ✦ artist
 </p>
 
