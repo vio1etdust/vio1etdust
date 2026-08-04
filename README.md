@@ -11,7 +11,7 @@
 
 <h2>𝒶𝒷ℴ𝓊𝓉 𝓂ℯ</h2>
 
-✦ 18teen <br>
+✦ 18 y/o <br>
 ✦ she / her <br>
 ✦ wlw <br>
 ✦ ISFP <br>
