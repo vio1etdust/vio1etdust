@@ -17,10 +17,11 @@
 
 <h2>𝒶𝒷ℴ𝓊𝓉 𝓂ℯ</h2>
 
-18teen <br>
-she / her <br>
-wlw <br>
-nutrition student
+✦ 18teen <br>
+✦ she / her <br>
+✦ wlw <br>
+✦ ISFP <br>
+✦ nutrition student
 
 </td>
 
@@ -36,10 +37,10 @@ nutrition student
 
 <h2>✦ important ✦</h2>
 
-DNC <br>
-C + H is OK <br>
-Mostly AFK <br>
-W21
+› DNC <br>
+› C + H is OK <br>
+› Mostly AFK <br>
+› W21
 
 </td>
 
