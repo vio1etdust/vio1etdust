@@ -57,17 +57,9 @@ W21
 <hr>
 
 <p align="center">
-
-<a href="https://www.instagram.com/1kyznnn?igsh=YXR2Y3E3NXUwYnV4">
-Instagram
-</a>
-
-✦
-
-<a href="https://www.roblox.com/share?code=882603caf62906489966c5213e7e718d&type=Profile&source=ProfileShare&stamp=1785810950855">
-Roblox
-</a>
-
+<a href="https://www.instagram.com/1kyznnn?igsh=YXR2Y3E3NXUwYnV4">Instagram</a>
+&nbsp; ✦ &nbsp;
+<a href="https://www.roblox.com/share?code=882603caf62906489966c5213e7e718d&type=Profile&source=ProfileShare&stamp=1785810950855">Roblox</a>
 </p>
 
 <br>
