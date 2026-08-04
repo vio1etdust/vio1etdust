@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&size=28&duration=4500&pause=1800&color=FFFFFF&center=true&vCenter=true&width=900&lines=but,+religion+plays+such+a+big+role+here,+yh...;there's+no+place+for+us+here..." />
-</p>
-
 <hr>
 
 <table align="center">
