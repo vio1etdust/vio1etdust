@@ -69,3 +69,9 @@ Roblox
 </a>
 
 </p>
+
+<br>
+
+<p align="center">
+<img src="./tgswiiwagaa-ayakoga.gif" width="300">
+</p>
