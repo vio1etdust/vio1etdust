@@ -10,7 +10,6 @@
 ✦ 18 y/o <br>
 ✦ she / her <br>
 ✦ wlw <br>
-✦ ISFP <br>
 ✦ nutrition student
 
 </td>
